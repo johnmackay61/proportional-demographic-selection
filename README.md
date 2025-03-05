@@ -41,7 +41,7 @@ mysql -u user -p < schema.sql
 This project is released under the **Unlicense**, allowing unrestricted use. Attribution is appreciated but not required.
 
 ## Credits
-This project was developed by ChatGPT in collaboration with John I. Mackay as part of the Colocracy initiative.
+This project was developed by [ChatGPT](https://chatgpt.com) in collaboration with [John I. Mackay](https://www.johnmackay.net) as part of the [Colocracy](https://www.colocracy.org/#) initiative.
 
 ## Contributing
 Pull requests and discussions are welcome! If you’d like to suggest improvements, feel free to open an issue.
