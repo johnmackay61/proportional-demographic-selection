@@ -13,7 +13,7 @@ This repository contains a Python implementation of **Proportional Demographic S
 ## Installation
 ```sh
 # Clone the repository
-git clone https://github.com/YOUR-USERNAME/proportional-demographic-selection.git
+git clone https://github.com/johnmackay61/proportional-demographic-selection.git
 cd proportional-demographic-selection
 
 # Create a virtual environment (optional)
